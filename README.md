@@ -11,6 +11,8 @@ When a pull request is merged into a `release/` branch, the cascading merge acti
 <test line added to release 2.0.0 branch>
 <release/2.0.0 test>
 
+<testing protected branches>
+
 ## Branch Structure
 
 Branches should follow semantic versioning under the `release/` prefix:
